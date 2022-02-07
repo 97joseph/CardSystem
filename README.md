@@ -1,7 +1,10 @@
 # CardSystem
+
  Card fraud detection system
  Credit Card Fraud Detection Project
- 
+
+![1644244182131.png](image/README/1644244182131.png)
+
 The credit card fraud detection features uses user behavior and location scanning to check for unusual patterns. These patterns include user characteristics such as user spending patterns as well as usual user geographic locations to verify his identity. If any unusual pattern is detected, the system requires revivification.
 The system analyses user credit card data for various characteristics. These characteristics include user country, usual spending procedures. Based upon previous data of that user the system recognizes unusual patterns in the payment procedure. So now the system may require the user to login again or even block the user for more than 3 invalid attempts.
 
