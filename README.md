@@ -6,9 +6,6 @@
 
 The Credit Card Fraud Detection Problem includes modeling past credit card transactions with the knowledge of the ones that turned out to be fraud. So,this system is used to identify whether a new transaction is fraudulent or not. Our aim here is to detect 100% of the fraudulent transactions while minimizing the incorrect fraud classifications.
 
-
-
-
 <h2>
       Error:- 'data = pd.read_csv('C:\Users\Ravi\Downloads\creditcardfraud\creditcard.csv')'
 </h2>
@@ -25,17 +22,13 @@ The Credit Card Fraud Detection Problem includes modeling past credit card trans
 
 <h2>For Documentation, Idea & some source code taken from here :-</h2> https://www.kaggle.com/sundarshahi/credit-card-fraud-detection-eduonix-solution
 
-
 <h2>Some Screenshots.</h2>
 <h3>Graphical Representation</h3>
 
 ![Screenshot](https://raw.github.com/raviprakash11/CreditCardFraudDetection/master/Screenshot1.png)
 
-
 ![Screenshot](https://raw.github.com/raviprakash11/CreditCardFraudDetection/master/Screenshot2.png)
 
-
 ![Screenshot](https://raw.github.com/raviprakash11/CreditCardFraudDetection/master/Screenshot3.png)
-
 
 ![Screenshot](https://raw.github.com/raviprakash11/CreditCardFraudDetection/master/Screenshot4.png)
