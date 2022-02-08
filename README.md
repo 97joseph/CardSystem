@@ -18,9 +18,7 @@ The Credit Card Fraud Detection Problem includes modeling past credit card trans
 <p>
       Warning:- C:\ProgramData\Anaconda3\lib\site-packages\sklearn\ensemble\iforest.py:247: FutureWarning: behaviour="old" is deprecated and will be removed in version 0.22. Please use behaviour="new", which makes the decision_function change to match other anomaly detection algorithm API. FutureWarning) C:\ProgramData\Anaconda3\lib\site-packages\sklearn\ensemble\iforest.py:415: DeprecationWarning: threshold_ attribute is deprecated in 0.20 and will be removed in 0.22. " be removed in 0.22.", DeprecationWarning)
 </p>
-<h2>For Dataset:-</h2> https://www.kaggle.com/mlg-ulb/creditcardfraud
 
-<h2>For Documentation, Idea & some source code taken from here :-</h2> https://www.kaggle.com/sundarshahi/credit-card-fraud-detection-eduonix-solution
 
 <h2>Some Screenshots.</h2>
 <h3>Graphical Representation</h3>
