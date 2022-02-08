@@ -1,7 +1,6 @@
 # CardSystem
 
- Card fraud detection system
- Credit Card Fraud Detection Project
+**Credit Card Fraud Detection Project**
 
 ![1644244182131.png](image/README/1644244182131.png)
 
